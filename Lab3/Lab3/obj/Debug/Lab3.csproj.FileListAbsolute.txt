@@ -1,0 +1,6 @@
+D:\OOP 2\github\Lab3\Lab3\bin\Debug\Lab3.exe.config
+D:\OOP 2\github\Lab3\Lab3\bin\Debug\Lab3.exe
+D:\OOP 2\github\Lab3\Lab3\bin\Debug\Lab3.pdb
+D:\OOP 2\github\Lab3\Lab3\obj\Debug\Lab3.csprojResolveAssemblyReference.cache
+D:\OOP 2\github\Lab3\Lab3\obj\Debug\Lab3.exe
+D:\OOP 2\github\Lab3\Lab3\obj\Debug\Lab3.pdb
